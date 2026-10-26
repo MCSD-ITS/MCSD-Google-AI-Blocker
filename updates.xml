@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="kfmilincpcioadgfdokafbnlpnjpkdpk">
     <updatecheck
-      codebase="https://mcsd-its.github.io/MCSD-Google-AI-Blocker/district-google-ai-blocker-v1-1.crx"
-      version="1.1.0" />
+      codebase="https://mcsd-its.github.io/MCSD-Google-AI-Blocker/district-google-ai-blocker-v1-1-1.crx"
+      version="1.1.1" />
   </app>
 </gupdate>
